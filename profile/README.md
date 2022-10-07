@@ -14,3 +14,8 @@ Made in HK 🇭🇰
 ### Browser extension
 - Chrome: https://chrome.google.com/webstore/detail/depths/hdlmnllimnamecnpkpgjikdonjcjaghe/
 - Firefox: https://addons.mozilla.org/zh-TW/firefox/addon/depths-extension/
+
+## Development related site
+
+### Depths web storybook
+- https://depths-storybook.netlify.app/
