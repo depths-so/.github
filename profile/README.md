@@ -6,7 +6,8 @@ Made in HK 🇭🇰
 - https://www.depths.so/
 
 ### Depths app website
-- https://depths.vercel.app/
+- https://app.depths.so/ (new)
+- https://depths.vercel.app/ (old)
 
 ### Discord channel
 - https://discord.gg/SfEjG9En6a/
