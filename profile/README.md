@@ -18,6 +18,9 @@ Made in HK 🇭🇰
 
 ## Development related site
 
+### Dev Site Preview
+- https://depths-git-dev-depths.vercel.app/
+
 ### Depths web storybook
 - https://depths-storybook.netlify.app/
 
